@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', fetchCharacters);
+window.addEventListener('DOMContentLoaded', fetchCharacters); // változás
 
 async function fetchCharacters() {
     try {
